@@ -24,7 +24,7 @@ const Header  = ()=>{
                         <Link to="/">Home</Link>
                        
                     </li>
-                    <li className="px-2 font-semibold text-md">
+                    {/* <li className="px-2 font-semibold text-md">
                         <Link to="/about">About</Link>           
                     </li>
                     <li className="px-2 font-semibold text-md">
@@ -32,7 +32,7 @@ const Header  = ()=>{
                     </li>
                     <li className="px-2 font-semibold text-md">
                         <Link to="/grocery">Grocery</Link>
-                    </li>
+                    </li> */}
                     <li className="px-2 font-bold text-lg">
                        <Link to="/cart">Cart {cartItems.length}</Link> 
                     </li>

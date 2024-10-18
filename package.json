@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "description": "Food Ordering App",
-  "main": "Script.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest",
     "start":"parcel index.html",
